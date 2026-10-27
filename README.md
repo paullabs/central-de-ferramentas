@@ -1,27 +1,25 @@
 # Central de Ferramentas
 
-Todas as ferramentas do curso, com o link certo de cada uma. Os números (estrelas e licença) foram conferidos em 27/10/2026 e mudam toda semana.
-
-> Link quebrado? Avise na comunidade. Aqui ele é arrumado num lugar só.
-
-## Como usar
-
-1. Ache a ferramenta na tabela abaixo e clique no link dela.
-2. Antes de instalar, faça o teste dos 30 segundos da aula 1: estrelas, última atualização, dono e licença.
-3. Siga o jeito de instalar da coluna **Como instalar** (aula 2).
-4. No fim da página tem o material de cada aula, com os comandos para copiar.
-
-## Ferramentas do curso
+Todas as ferramentas do curso, com o link certo de cada uma. Clique no nome para ver os links.
 
 | Ferramenta | Para que serve | Como instalar | Licença |
 |---|---|---|---|
-| [**Voicebox**](#voicebox) | Clona a sua voz e narra qualquer texto, no seu computador. É o ElevenLabs grátis. | Instalador | MIT |
-| [**OpenCut**](#opencut) | Editor de vídeo grátis, parecido com o CapCut. Roda no navegador, sem instalar. | Navegador | MIT |
-| [**Buzz**](#buzz) | Escuta o áudio de um vídeo e escreve o que foi falado, com o tempo de cada trecho. | Instalador | MIT |
-| [**HyperFrames**](#hyperframes) | Cria vídeo animado a partir de um pedido que você escreve. Abertura, título, legenda palavra por palavra. | Aplicativo (aula 6) ou Terminal (aula 7) | Apache-2.0 |
-| [**Pinokio**](#pinokio) | Uma loja de ferramentas de IA. Você escolhe, e ele instala tudo que a ferramenta precisa. | Instalador | MIT |
-| [**ComfyUI**](#comfyui) | Gera imagem e vídeo com IA, montando o caminho em blocos. | Pinokio | GPL-3.0 |
-| [**MoneyPrinterTurbo**](#moneyprinterturbo) | Cria um vídeo curto a partir de um tema ou palavra-chave. | Ainda não ensinado | MIT |
+| [**Voicebox**](#voicebox) | Clona voz e narra texto | Instalador | MIT |
+| [**OpenCut**](#opencut) | Editor de vídeo, como o CapCut | Navegador | MIT |
+| [**Buzz**](#buzz) | Transcreve áudio em texto | Instalador | MIT |
+| [**HyperFrames**](#hyperframes) | Cria vídeo animado por pedido | App ou Terminal | Apache-2.0 |
+| [**Pinokio**](#pinokio) | Loja de ferramentas de IA | Instalador | MIT |
+| [**ComfyUI**](#comfyui) | Gera imagem e vídeo com IA | Pinokio | GPL-3.0 |
+| [**MoneyPrinterTurbo**](#moneyprinterturbo) | Vídeo curto a partir de um tema | Ainda não ensinado | MIT |
+
+> Estrelas e licenças conferidas em 27/10/2026; mudam toda semana. Link quebrado? Avise na comunidade. Aqui ele é arrumado num lugar só.
+
+## Como usar
+
+1. Ache a ferramenta na tabela e clique no nome dela.
+2. Antes de instalar, faça o teste dos 30 segundos da aula 1: estrelas, última atualização, dono e licença.
+3. Siga o jeito de instalar da coluna **Como instalar** (aula 2).
+4. No fim da página tem o material de cada aula, com os comandos para copiar.
 
 ### Voicebox
 
