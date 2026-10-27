@@ -13,19 +13,21 @@ Todas as ferramentas do curso, com o link certo de cada uma. Os números (estrel
 
 ## Ferramentas do curso
 
-| Ferramenta | Para que serve | Como instalar | Licença | Estrelas | Aulas |
-|---|---|---|---|---|---|
-| **Voicebox** | Clona a sua voz e narra qualquer texto, no seu computador. É o ElevenLabs grátis. | Instalador | MIT | 58,7 mil | 1, 2 |
-| **OpenCut** | Editor de vídeo grátis, parecido com o CapCut. Roda no navegador, sem instalar. | Navegador | MIT | 96,5 mil | 2, 4 |
-| **Buzz** | Escuta o áudio de um vídeo e escreve o que foi falado, com o tempo de cada trecho. | Instalador | MIT | 22,2 mil | 5 |
-| **HyperFrames** | Cria vídeo animado a partir de um pedido que você escreve. Abertura, título, legenda palavra por palavra. | Aplicativo (aula 6) ou Terminal (aula 7) | Apache-2.0 | 73,9 mil | 2, 6, 7 |
-| **Pinokio** | Uma loja de ferramentas de IA. Você escolhe, e ele instala tudo que a ferramenta precisa. | Instalador | MIT | 8,3 mil | 2 |
-| **ComfyUI** | Gera imagem e vídeo com IA, montando o caminho em blocos. | Pinokio | GPL-3.0 | 143,6 mil | 2 |
-| **MoneyPrinterTurbo** | Cria um vídeo curto a partir de um tema ou palavra-chave. | Ainda não ensinado | MIT | 135,8 mil | 3 |
+| Ferramenta | Para que serve | Como instalar | Licença |
+|---|---|---|---|
+| [**Voicebox**](#voicebox) | Clona a sua voz e narra qualquer texto, no seu computador. É o ElevenLabs grátis. | Instalador | MIT |
+| [**OpenCut**](#opencut) | Editor de vídeo grátis, parecido com o CapCut. Roda no navegador, sem instalar. | Navegador | MIT |
+| [**Buzz**](#buzz) | Escuta o áudio de um vídeo e escreve o que foi falado, com o tempo de cada trecho. | Instalador | MIT |
+| [**HyperFrames**](#hyperframes) | Cria vídeo animado a partir de um pedido que você escreve. Abertura, título, legenda palavra por palavra. | Aplicativo (aula 6) ou Terminal (aula 7) | Apache-2.0 |
+| [**Pinokio**](#pinokio) | Uma loja de ferramentas de IA. Você escolhe, e ele instala tudo que a ferramenta precisa. | Instalador | MIT |
+| [**ComfyUI**](#comfyui) | Gera imagem e vídeo com IA, montando o caminho em blocos. | Pinokio | GPL-3.0 |
+| [**MoneyPrinterTurbo**](#moneyprinterturbo) | Cria um vídeo curto a partir de um tema ou palavra-chave. | Ainda não ensinado | MIT |
 
 ### Voicebox
 
 Clona a sua voz e narra qualquer texto, no seu computador. É o ElevenLabs grátis.
+
+Licença: **MIT** · Estrelas: 58,7 mil (em 27/10/2026) · Aulas: 1, 2
 
 - [Página do projeto](https://github.com/jamiepine/voicebox)
 - [Baixar o instalador (Releases)](https://github.com/jamiepine/voicebox/releases)
@@ -36,6 +38,8 @@ Clona a sua voz e narra qualquer texto, no seu computador. É o ElevenLabs grát
 
 Editor de vídeo grátis, parecido com o CapCut. Roda no navegador, sem instalar.
 
+Licença: **MIT** · Estrelas: 96,5 mil (em 27/10/2026) · Aulas: 2, 4
+
 - [Abrir o editor](https://opencut.app)
 - [Página do projeto](https://github.com/OpenCut-app/OpenCut)
 
@@ -45,6 +49,8 @@ Editor de vídeo grátis, parecido com o CapCut. Roda no navegador, sem instalar
 
 Escuta o áudio de um vídeo e escreve o que foi falado, com o tempo de cada trecho.
 
+Licença: **MIT** · Estrelas: 22,2 mil (em 27/10/2026) · Aulas: 5
+
 - [Página do projeto](https://github.com/chidiwilliams/buzz)
 - [Baixar o instalador (Releases)](https://github.com/chidiwilliams/buzz/releases)
 
@@ -53,6 +59,8 @@ Escuta o áudio de um vídeo e escreve o que foi falado, com o tempo de cada tre
 ### HyperFrames
 
 Cria vídeo animado a partir de um pedido que você escreve. Abertura, título, legenda palavra por palavra.
+
+Licença: **Apache-2.0** · Estrelas: 73,9 mil (em 27/10/2026) · Aulas: 2, 6, 7
 
 - [Baixar o aplicativo Studio (Mac e Windows)](https://hyperframes.dev/studio)
 - [Guia de início](https://hyperframes.heygen.com/quickstart)
@@ -65,12 +73,16 @@ Cria vídeo animado a partir de um pedido que você escreve. Abertura, título, 
 
 Uma loja de ferramentas de IA. Você escolhe, e ele instala tudo que a ferramenta precisa.
 
+Licença: **MIT** · Estrelas: 8,3 mil (em 27/10/2026) · Aulas: 2
+
 - [Site e download](https://pinokio.co)
 - [Página do projeto](https://github.com/pinokiocomputer/pinokio)
 
 ### ComfyUI
 
 Gera imagem e vídeo com IA, montando o caminho em blocos.
+
+Licença: **GPL-3.0** · Estrelas: 143,6 mil (em 27/10/2026) · Aulas: 2
 
 - [Página do projeto](https://github.com/Comfy-Org/ComfyUI)
 
@@ -79,6 +91,8 @@ Gera imagem e vídeo com IA, montando o caminho em blocos.
 ### MoneyPrinterTurbo
 
 Cria um vídeo curto a partir de um tema ou palavra-chave.
+
+Licença: **MIT** · Estrelas: 135,8 mil (em 27/10/2026) · Aulas: 3
 
 - [Página do projeto](https://github.com/harry0703/MoneyPrinterTurbo)
 
