@@ -4,7 +4,7 @@ Onde ficam todos os links do curso, e como buscar outros projetos sozinho.
 
 ## Links
 
-- **Esta Central** · A página que você está lendo. Salve nos favoritos.
+- [Esta Central, no GitHub](https://github.com/paullabs/central-de-ferramentas) · Dê uma Star e use o Watch, Custom, Releases para ser avisado de ferramenta nova.
 - [Busca do GitHub](https://github.com/search) · Busque sempre em inglês.
 - [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) · Exemplo de página em outra língua. Use Traduzir para português.
 
