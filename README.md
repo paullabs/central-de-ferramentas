@@ -14,6 +14,14 @@ Todas as ferramentas do curso, com o link certo de cada uma. Clique no nome para
 
 > Estrelas e licenças conferidas em 27/10/2026; mudam toda semana. Link quebrado? Avise na comunidade. Aqui ele é arrumado num lugar só.
 
+## O que é esta Central
+
+**O que é:** uma lista, num lugar só, de todas as ferramentas grátis que o curso ensina. Cada uma tem o link certo, para que serve, como instalar e qual é a licença.
+
+**Para que serve:** você não precisa caçar o link de cada ferramenta nem confiar em cópia com o mesmo nome. E, se um projeto mudar de endereço ou sair do ar, o link é arrumado aqui, num lugar só, sem precisar mexer em cada vídeo.
+
+**Como ela se liga às aulas:** na descrição de cada vídeo ficam os links das ferramentas usadas naquela aula, um link com os comandos para copiar (os arquivos `aula-01.md` a `aula-07.md` aqui ao lado) e o link desta Central.
+
 ## Como usar
 
 1. Ache a ferramenta na tabela e clique no nome dela.
